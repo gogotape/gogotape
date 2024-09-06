@@ -1,7 +1,6 @@
 ### Hi there 👋
-https://leetcode.com/gogotape/
-!(https://leetcode-badge-sage.vercel.app/badge/gogotape?theme=dark)
-<!--
+![Enter some description](https://leetcode-badge-sage.vercel.app/badge/{gogotape}?theme={dark})
+
 **gogotape/gogotape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
