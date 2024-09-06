@@ -1,6 +1,6 @@
 ### Hi there 👋
 https://leetcode.com/gogotape/
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gogotape)](https://github.com/KnlnKS/leetcode-stats)
+!(https://leetcode-badge-sage.vercel.app/badge/{gogotape}?theme={light|dark|neutral})
 <!--
 **gogotape/gogotape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
